@@ -1,0 +1,4 @@
+Web color: mycolor.space
+Image : flatIcon
+Icon: RemixIcon
+Power = Math.pow(double, double);

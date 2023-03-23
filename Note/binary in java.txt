@@ -1,0 +1,3 @@
+int a = 0111;
+int b = 0b0111;  \\Binary
+intteger.toString(c,2);   គោល 2
